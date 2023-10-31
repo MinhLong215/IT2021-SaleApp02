@@ -1,13 +1,16 @@
+from app.models import Category, Product
+
 
 
 def load_categories():
-    return [{
-        'id' :  1,
-        'name' : 'Mobile'
-    }, {
-        'id' :  1,
-        'name' : 'Tablet'
-    }]
+    return Category.query.all()
+    # return [{
+    #     'id' :  1,
+    #     'name' : 'Mobile'
+    # }, {
+    #     'id' :  1,
+    #     'name' : 'Tablet'
+    # }]
 
 def load_products(kw=None):
     products = [{
