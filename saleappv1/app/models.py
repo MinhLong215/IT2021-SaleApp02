@@ -30,17 +30,17 @@ if __name__ == "__main__":
         # db.session.commit()
 
         p1 = Product(name='iPad Pro 2022', price=24000000,
-                     image="https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png", category_id=2)
+                     image="https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg", category_id=2)
         p2 = Product(name='iPhone 13', price=21000000,
-                     image="https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png", category_id=1)
+                     image="https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg", category_id=1)
         p3 = Product(name='Galaxy S24', price=24000000,
-                     image="https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png", category_id=1,)
+                     image="https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg", category_id=1)
         p4 = Product(name='Note 22', price=22000000,
-                     image="https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png", category_id=1,)
+                     image="https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg", category_id=1)
         p5 = Product(name='Galaxy Tab S10', price=24000000,
-                     image="https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png", category_id=2)
+                     image="https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg", category_id=2)
 
-        db.session.add_all([p1, p2, p3, p4, p5])
+        db.session.add_all([p1,p2,p3,p4,p5])
         db.session.commit()
 
         # db.create_all()

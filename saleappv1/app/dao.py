@@ -17,27 +17,27 @@ def load_products(kw=None):
         "id": 1,
         "name": "Iphone 15 Pro Max",
         "price": 30000000,
-        "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+        "image": "https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg"
     },{
         "id": 2,
         "name": "Iphone 15 Pro Max",
         "price": 30000000,
-        "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+        "image": "https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg"
     },{
         "id": 1,
         "name": "Iphone 15 Pro Max",
         "price": 30000000,
-        "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+        "image": "https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg"
     },{
         "id": 1,
         "name": "Ipad Pro Max",
         "price": 30000000,
-        "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+        "image": "https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg"
     },{
         "id": 1,
         "name": "Iphone 15 Pro Max",
         "price": 30000000,
-        "image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+        "image": "https://cdn.tgdd.vn//News/1546949//tong-hop-hinh-nen-iphone-15-pro-max-4k-iphone-15(5)-800x450.jpg"
     }]
 
     if kw:
